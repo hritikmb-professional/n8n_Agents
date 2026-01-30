@@ -76,7 +76,7 @@ curl -X POST https://n8n.example.com/webhook/vin_decoder \
   -d '{"vin": "1HGBH41JXMN109186"}'
 ```
 
-## 🔧 Customization
+## Customization
 
 Modify workflows by adjusting:
 - Agent prompts for different responses
